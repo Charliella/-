@@ -1,0 +1,5 @@
+{
+  "name": "Symmetry Drawing Pad",
+  "description": "An interactive web application that allows users to draw on one side of a central axis, with the application mirroring the drawing in real-time on the other side to create a perfectly symmetrical image.",
+  "requestFramePermissions": []
+}
